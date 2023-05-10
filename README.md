@@ -1,5 +1,5 @@
 # ObjectOperations
-Study project using some technologies:
+Study project for laboratories using:
 - LINQ
 - xPath
 - XML
